@@ -1,2 +1,4 @@
 # PrepCourse_Henry
-Este es un repositorio de prueba del modulo 2 del PrepCourse de Henry.
+
+Lucia Gomez.
+Este proyecto es una prueba de como crear un repositorio desde git hub y clonarlo a mi repositorio local. 
